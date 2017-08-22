@@ -12,6 +12,7 @@
 		AC3D179C1F4BBC5B00341C7D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC3D179A1F4BBC5B00341C7D /* Main.storyboard */; };
 		AC3D179E1F4BBC5B00341C7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC3D179D1F4BBC5B00341C7D /* Assets.xcassets */; };
 		AC3D17A11F4BBC5B00341C7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC3D179F1F4BBC5B00341C7D /* LaunchScreen.storyboard */; };
+		AC3D17A91F4BC4DE00341C7D /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC3D17A81F4BC4DE00341C7D /* SecondVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AC3D179D1F4BBC5B00341C7D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC3D17A01F4BBC5B00341C7D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC3D17A21F4BBC5B00341C7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC3D17A81F4BC4DE00341C7D /* SecondVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				AC3D17961F4BBC5B00341C7D /* AppDelegate.swift */,
 				AC3D17981F4BBC5B00341C7D /* ViewController.swift */,
 				AC3D179A1F4BBC5B00341C7D /* Main.storyboard */,
+				AC3D17A81F4BC4DE00341C7D /* SecondVC.swift */,
 				AC3D179D1F4BBC5B00341C7D /* Assets.xcassets */,
 				AC3D179F1F4BBC5B00341C7D /* LaunchScreen.storyboard */,
 				AC3D17A21F4BBC5B00341C7D /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC3D17991F4BBC5B00341C7D /* ViewController.swift in Sources */,
+				AC3D17A91F4BC4DE00341C7D /* SecondVC.swift in Sources */,
 				AC3D17971F4BBC5B00341C7D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
